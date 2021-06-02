@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **minchansike@gmail.com**
 
-- 🤝 Nickname **ThuKha**
+- 🤝 Formal Name **Thu Kha**
 
 <p align="left"> <a href="https://twitter.com/minchansike" target="blank"><img src="https://img.shields.io/twitter/follow/minchansike?logo=twitter&style=for-the-badge" alt="minchansike" /></a> </p>
 
