@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MinChan Sike</h1>
+<h1 align="center">Hi 👋, I'm MinChanSike</h1>
 <h3 align="center">A passionate fullstack software developer</h3>
 
 - 🌱 I’m currently learning **AWS Cloud and Flutter**
